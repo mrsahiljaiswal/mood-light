@@ -59,7 +59,6 @@ You can access the live version of the app at [mood-light.netlify.app](https://m
 
 Contributions are always welcome! If you'd like to suggest improvements or report issues, feel free to open a pull request or submit an issue in the repository.
 
----
 
 **Mood-Light**: Now customize your screen according to your mood and need!
 
