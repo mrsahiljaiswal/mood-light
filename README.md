@@ -1,7 +1,7 @@
 # Mood-Light
 
 [Live Demo](https://mood-light.netlify.app)
-
+![mood-light Preview](https://res.cloudinary.com/de5pdwmbc/image/upload/v1727280112/yljqlweqfkuj1opgzhst.png)
 **Mood-Light** is a React application that allows you to customize your screen's color based on your mood or needs. Whether you're looking to enhance your workspace, relax, or simply add some personalization, Mood-Light gives you full control. This project is my first React app, hosted on Netlify, and built using modern web development tools.
 
 ## 🚀 Features
