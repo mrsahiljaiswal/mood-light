@@ -29,7 +29,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mood-light.git
+    git clone https://github.com/mrsahiljaiswal/mood-light.git
     ```
 2. Navigate to the project directory:
     ```bash
